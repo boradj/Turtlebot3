@@ -3,18 +3,6 @@
 
 <img src="https://github.com/boradj/Turtlebot3/blob/main/Images/logo_turtlebot3.png" width="230" height="200">
 
-### **Members:**
-
-  **Jaydip Borad**:- <boradjaydip.bj@gmail.com>
-
-  **Shresth Sharma**:- <shresth31sharma@gmail.com>
-
-  **Ayush Surana**:- <aayushsurana12@gmail.com>
-
-  **Dharmesh Patel**:- <dppatelrh29@gmail.com>
-
-  **Milind Milind**:- <milindchaudhary80@gmail.com>
-
 ## Lab 1:
    
    ### To map enviroment in real-world(Classroom) and in virtual map
